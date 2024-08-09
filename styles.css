@@ -1,0 +1,27 @@
+* {
+    outline: solid red 3px;
+}
+
+.ex-1 {
+    display: inline; /* the default for span */
+    width: 100px;
+    height: 160px;
+    padding: 18px;
+  }
+
+  .ex-2 {
+    display: inline-block;
+    width: 100px;
+    height: 160px;
+    padding: 18px;
+  }
+
+  .ex-3 {
+    display: block;
+    width: 100px;
+    height: 160px;
+    padding: 18px;
+  }
+
+
+
